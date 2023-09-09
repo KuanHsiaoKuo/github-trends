@@ -9,14 +9,14 @@
 
 > browse trending github repos written in your favorite language with this high performance application
 
-<img src='https://github.com/hanford/trends/blob/master/trends.gif' alt='preview gif' width='600px' />
+<img src='./trends.gif' alt='preview gif' width='600px' />
 
 [View the application](https://trends.now.sh)
 
 Trends is an ultra high performance progressive web application built with Next.js. Trends pushes the performance needle forward by using the latest Next.js 13 features like `appDir` and React server components.
 
 Checkout the perfect performance audit 💯
-<img src='https://github.com/hanford/trends/blob/master/audit.jpg' alt='perf audit' width='600px' />
+<img src='./audit.jpg' alt='perf audit' width='600px' />
 
 ## Features
 

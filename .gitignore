@@ -22,3 +22,5 @@ packages/www/.next
 
 .vercel
 .vscode
+yarn.lock
+.idea/
