@@ -3,6 +3,8 @@ import Footer from "../components/Footer";
 
 import "./root.css";
 
+export const runtime = "edge";
+
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
