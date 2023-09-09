@@ -24,3 +24,4 @@ packages/www/.next
 .vscode
 yarn.lock
 .idea/
+pnpm-lock.yaml
